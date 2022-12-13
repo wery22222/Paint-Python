@@ -1,5 +1,4 @@
 If I had more time I would add a while loop to repeat the input until it is a valid input.
-I would output the quantity depending on its coverage (Input Litres/m^2, output Litres)
-If I had a lot of time I would allow the user to seperate out the room into different parts and let them input
-different types of paint and decide if they are painting an area or not or what type of paint they are painting it with
+I would output the quantity depending on the paints coverage (Input Litres/m^2, output Litres)
+If I had a lot of time I would allow the user to seperate out the room into different parts and let them input different types of paint and decide if they are painting an area (and what type of paint) or not. 
 Finally,  I would add a GUI
